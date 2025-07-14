@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="LotdtbK56M1U0fD4xoZM">
-    <mxGraphModel>
+    <mxGraphModel dx="2563" dy="2343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="592" y="500" width="252" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-18">
+          <mxGeometry x="58" width="136" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-17" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Azure Function App&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-18">
+          <mxGeometry y="130" width="252" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="940" y="-140" width="252" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-19" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-25">
+          <mxGeometry x="50" width="140" height="134.4" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;MNRL GOV API&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-25">
+          <mxGeometry y="160" width="252" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1254" y="207.2" width="252" height="212.8" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-26">
+          <mxGeometry x="66" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-24" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;cms-masterdata&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-26">
+          <mxGeometry y="152.8" width="252" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1560" y="205" width="252" height="212.8" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-27">
+          <mxGeometry x="66" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-29" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;cap-masterdata&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-27">
+          <mxGeometry y="152.8" width="252" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="84" y="500" width="252" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/python-128.png" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-34">
+          <mxGeometry x="66" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-32" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Python Script&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-34">
+          <mxGeometry y="140" width="252" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1254" y="630" width="252" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-41" value="" style="group" vertex="1" connectable="0" parent="mIL93Vf3M8vq30EBRDWd-43">
+          <mxGeometry x="41" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,transparent);" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-41">
+          <mxGeometry width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-38" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-41">
+          <mxGeometry x="24.285714285714285" y="60" width="121.42857142857143" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-39" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-41">
+          <mxGeometry x="24.285714285714285" y="16.666666666666668" width="121.42857142857143" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-42" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Compare&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mIL93Vf3M8vq30EBRDWd-43">
+          <mxGeometry y="140" width="252" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mIL93Vf3M8vq30EBRDWd-46" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Container.svg;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="207.2" width="152" height="123.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
