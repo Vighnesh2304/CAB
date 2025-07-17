@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A0rfGZy11yUYFwmw5L6u-62" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="270" y="-329.75" width="360" height="343" as="geometry" />
+          <mxGeometry x="270" y="-270" width="360" height="343" as="geometry" />
         </mxCell>
         <mxCell id="A0rfGZy11yUYFwmw5L6u-3" value="" style="group;rounded=1;" parent="A0rfGZy11yUYFwmw5L6u-62" vertex="1" connectable="0">
           <mxGeometry width="360" height="252.63" as="geometry" />
@@ -140,9 +140,6 @@
         </mxCell>
         <mxCell id="A0rfGZy11yUYFwmw5L6u-60" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;rounded=1;" parent="A0rfGZy11yUYFwmw5L6u-61" vertex="1">
           <mxGeometry width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="A0rfGZy11yUYFwmw5L6u-66" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Azure Function App&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="A0rfGZy11yUYFwmw5L6u-62" vertex="1">
-          <mxGeometry x="10" y="283" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="65zSUhwhdI0BgLda2XyE-3" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="920" y="570" width="252" height="212.8" as="geometry" />
@@ -228,6 +225,27 @@
         </mxCell>
         <mxCell id="65zSUhwhdI0BgLda2XyE-42" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;compare_and_store&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1940" y="-52.25" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qwGAWuC8RizYIpr113MT-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="-199" as="sourcePoint" />
+            <mxPoint x="898.6300000000001" y="-199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A0rfGZy11yUYFwmw5L6u-66" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Azure Function App&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1167" y="73" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qwGAWuC8RizYIpr113MT-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1178.630000000001" y="-199" as="sourcePoint" />
+            <mxPoint x="1460" y="-199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qwGAWuC8RizYIpr113MT-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.199;entryY=-0.108;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1700" y="-201" as="sourcePoint" />
+            <mxPoint x="1984.6499999999996" y="-198.13486005088998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
